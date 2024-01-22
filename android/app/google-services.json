@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385708083760",
+    "project_id": "helpgpt-99ab8",
+    "storage_bucket": "helpgpt-99ab8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385708083760:android:c118e5d293c18a3c9a7bf5",
+        "android_client_info": {
+          "package_name": "com.example.brainboost_academy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385708083760-p4bf5kh7ssttv8rqc2eva9trc1lkks5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBawTWkMjDq4FqVDdDNAkmueBMu3p1Zjk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385708083760-p4bf5kh7ssttv8rqc2eva9trc1lkks5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
